@@ -1,0 +1,21 @@
+{
+	"id": "3233252a-540c-4d66-8368-434690d649b5",
+	"name": "ExpenseTrackerAPI",
+	"timestamp": "2022-08-30T10:49:26.806Z",
+	"collection_id": "23070130-79e27e24-f712-4cef-845a-a8ccaf933c4f",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [],
+	"count": 1,
+	"totalTime": 0,
+	"collection": {
+		"requests": [
+			{
+				"id": "e5358795-0c79-4e32-9c36-0e154d6fdaf1",
+				"method": "POST"
+			}
+		]
+	}
+}
